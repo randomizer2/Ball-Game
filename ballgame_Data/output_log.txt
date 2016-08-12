@@ -1,0 +1,89 @@
+Mono path[0] = 'C:/Users/Blah/Documents/ufo game/ballgame_Data/Managed'
+Mono path[1] = 'C:/Users/Blah/Documents/ufo game/ballgame_Data/Mono'
+Mono config path = 'C:/Users/Blah/Documents/ufo game/ballgame_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Blah/Documents/ufo game/ballgame_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55492
+Multi-casting "[IP] 192.168.0.2 [Port] 55492 [Flags] 2 [Guid] 2174789802 [EditorId] 1637936074 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-TU7M42Q) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.0.2:55492]
+Initialize engine version: 5.3.6f1 (29055738eb78)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7800 Series (ID=0x6819)
+    Vendor:   ATI
+    VRAM:     2030 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Blah\Documents\ufo game\ballgame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Blah\Documents\ufo game\ballgame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Blah\Documents\ufo game\ballgame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Blah\Documents\ufo game\ballgame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Blah\Documents\ufo game\ballgame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Blah\Documents\ufo game\ballgame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Blah\Documents\ufo game\ballgame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Blah\Documents\ufo game\ballgame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.096 seconds
+Platform assembly: C:\Users\Blah\Documents\ufo game\ballgame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Blah\Documents\ufo game\ballgame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.496481 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.408752 ms
+System memory in use before: 17.2 MB.
+System memory in use after: 17.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 405.
+Total: 0.145531 ms (FindLiveObjects: 0.014273 ms CreateObjectMapping: 0.010239 ms MarkObjects: 0.109225 ms  DeleteObjects: 0.006826 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.333573 ms
+System memory in use before: 17.2 MB.
+System memory in use after: 17.3 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 246.
+Total: 0.112639 ms (FindLiveObjects: 0.009309 ms CreateObjectMapping: 0.004344 ms MarkObjects: 0.095572 ms  DeleteObjects: 0.003103 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.279580 ms
+System memory in use before: 17.3 MB.
+System memory in use after: 17.3 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 246.
+Total: 0.151426 ms (FindLiveObjects: 0.013653 ms CreateObjectMapping: 0.004964 ms MarkObjects: 0.128154 ms  DeleteObjects: 0.003723 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.291682 ms
+System memory in use before: 17.3 MB.
+System memory in use after: 17.3 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 0.119776 ms (FindLiveObjects: 0.011481 ms CreateObjectMapping: 0.004964 ms MarkObjects: 0.099606 ms  DeleteObjects: 0.003413 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.291372 ms
+System memory in use before: 17.3 MB.
+System memory in use after: 17.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 373.
+Total: 0.137773 ms (FindLiveObjects: 0.014273 ms CreateObjectMapping: 0.005275 ms MarkObjects: 0.113259 ms  DeleteObjects: 0.003723 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.294785 ms
+System memory in use before: 17.4 MB.
+System memory in use after: 17.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 373.
+Total: 0.162287 ms (FindLiveObjects: 0.018307 ms CreateObjectMapping: 0.005275 ms MarkObjects: 0.133739 ms  DeleteObjects: 0.004033 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.570953 ms
+System memory in use before: 17.3 MB.
+System memory in use after: 17.3 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 373.
+Total: 0.123809 ms (FindLiveObjects: 0.012101 ms CreateObjectMapping: 0.004964 ms MarkObjects: 0.103330 ms  DeleteObjects: 0.003103 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2788 -> priority: 1 
